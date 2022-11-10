@@ -8,7 +8,7 @@ License: GPL-3-Qt
 
 Files: examples/datavisualization/texturesurface/*.png
        examples/datavisualization/texturesurface/*.jpg
-Copyright: ???
+Copyright: National Land Survey of Finland
 License: National-Land-Survey-open-data-licence
 
 Files: tests/auto/cpptest/common/cpptestutil.h
