@@ -18,7 +18,7 @@ libQt5DataVisualization.so.5 libqt5datavisualization5 #MINVER#
  Qt_5.8@Qt_5.8 5.10.1
  Qt_5.9@Qt_5.9 5.10.1
  Qt_5@Qt_5 5.10.1
- Qt_5_PRIVATE_API@Qt_5_PRIVATE_API 5.10.1
+ (symver)Qt_5_PRIVATE_API 0
  _ZN19QtDataVisualization10Q3DScatter11qt_metacallEN11QMetaObject4CallEiPPv@Qt_5 5.10.1
  _ZN19QtDataVisualization10Q3DScatter11qt_metacastEPKc@Qt_5 5.10.1
  _ZN19QtDataVisualization10Q3DScatter11releaseAxisEPNS_12QValue3DAxisE@Qt_5 5.10.1
